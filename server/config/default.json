@@ -1,0 +1,8 @@
+{
+    "serverPort" : 5000,
+    "dbUrl": "mongodb+srv://testoftest030:Test1of1Test@cluster0.lahoo.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "secretKey": "secret-key-for-jwt-token",
+    "filePath": "/Users/air/Documents/Little_Bit/TestTask1/server/files",
+    "staticPath": ""
+  }
+  
